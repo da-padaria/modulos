@@ -1,3 +1,5 @@
-var somar = require("./modulos/somar");
+var soma = require("./modulos/soma");
+var media = require("./modulos/media");
 
-console.log(somar(10,90));
+console.log(soma(10,90));
+console.log(media(10,90));
